@@ -1,0 +1,14 @@
+<body>
+    <p>D3 Tutorial</p>
+    <script src = "https://d3js.org/d3.v4.min.js"></script>
+    <script>
+        var data = ['Big', 'data', 'assignment', 3, 'submission'];
+        var body = d3.select("body")
+        .selectAll("body")
+        .data(data)
+        .enter()
+        .text(function (d, i) {
+            return d;
+        });
+    </script>
+</body>
