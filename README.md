@@ -16,3 +16,6 @@ This is the homework of 22-Fall EECS E6893 Big Data Analytics at Columbia Univer
 
 ## HW3
 Data visulization with d3.js
+
+## HW4
+Build and Implement Airflow DAG.
