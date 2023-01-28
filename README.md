@@ -1,6 +1,8 @@
 # EECS-6893-HW
 This is the homework of 22-Fall EECS E6893 Big Data Analytics at Columbia University.
 
+Please do not simply copy and paste the code. Think, google and try. I hope you truely learn from this course!
+
 ## HW0
 1. Set up GCP and Cloud SDK
 2. Learn Dataproc (Spark), Cloud Storage, and BigQuery
